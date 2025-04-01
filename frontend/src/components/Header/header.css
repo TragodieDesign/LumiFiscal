@@ -1,0 +1,22 @@
+.header-wrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.header-title{
+    width: 30%;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+}
+.header-menu{
+    
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: flex-end;
+}
